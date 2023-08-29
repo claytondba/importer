@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1B87BD91-9A5E-4A40-BF26-CC47684825F2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Importer/Program.cs">
+    <Files>
+      <File FileName="Importer/Program.cs" Line="15" Column="24" />
+      <File FileName="Importer/DataContext.cs" />
+      <File FileName="Importer/appSettings.json" />
+      <File FileName="Importer/PecasConfiguration.cs" />
+      <File FileName="Importer/PecaModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Importer" expanded="True">
+            <Node name="Importer" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Importer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/claytonoliveira/Projects/Importer/Importer/Program.cs" relfile="Importer/Program.cs" line="7" column="1" />
+      <Breakpoint file="/Users/claytonoliveira/Projects/Importer/Importer/Program.cs" relfile="Importer/Program.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
